@@ -155,7 +155,7 @@ I break down complex data topics into simple, practical content that actually he
  ### 🚀 Stay Connected & Join the Data Drool Community
 If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
 
-🎥 YouTube: [Data Drool](https://www.youtube.com/@datadrool)
+🎥 YouTube: [Amlan Mohanty](https://www.youtube.com/@amlanmohanty1)
 - Beginner-friendly tutorials, real-world projects, job and career advice
 
 📺 Instagram: [data.drool](https://www.instagram.com/data.drool/)
